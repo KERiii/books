@@ -1,0 +1,359 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 635,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "083BUgMnLKQC",
+      "etag": "Lmkyx+cXhoQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/083BUgMnLKQC",
+      "volumeInfo": {
+        "title": "Cutting Code",
+        "subtitle": "Software and Sociality",
+        "authors": [
+          "Adrian Mackenzie"
+        ],
+        "publisher": "Peter Lang",
+        "publishedDate": "2006-01-01",
+        "description": "Software has often been marginalized in accounts of digital cultures and network societies. Although software is everywhere, it is hard to say what it actually is. \"Cutting Code: Software and Sociality\" is one of the first books to treat software seriously as a full-blown cultural process, and as a subtly powerful material in contemporary communication. From deCSS to Java, from Linux to Extreme Programming, this book analyses software artworks, operating systems, commercial products, infrastructures and programming practices. It explores social forms, identities, materialities and power relations associated with software, and it asks how software provokes the re-thinking of production, consumption and distribution as entwined cultural processes. \"Cutting Code\" argues that analysis of code as a mosaic of algorithms, protocols, infrastructures, and programming conventions offers valuable insights into how contemporary social formations invent new kinds of personhood and new ways of acting.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0820478237"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780820478234"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 215,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=083BUgMnLKQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=083BUgMnLKQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.hu/books?id=083BUgMnLKQC&printsec=frontcover&dq=software&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.hu/books?id=083BUgMnLKQC&dq=software&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cutting_Code.html?hl=&id=083BUgMnLKQC"
+      },
+      "saleInfo": {
+        "country": "HU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "HU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=083BUgMnLKQC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From deCSS to Java, from Linux to Extreme Programming, this book analyses software artworks, operating systems, commercial products, infrastructures, and programming practices."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eWX7RkmnNPQC",
+      "etag": "KrPTzW+k7KI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eWX7RkmnNPQC",
+      "volumeInfo": {
+        "title": "Corpus Presenter",
+        "subtitle": "Software for Language Analysis with a Manual and \"A Corpus of Irish English\" as Sample Data",
+        "authors": [
+          "Raymond Hickey"
+        ],
+        "publisher": "John Benjamins Publishing",
+        "publishedDate": "2003",
+        "description": "\"The manual contains many sample analyses and discussions so that users can acquaint themselves with the suite quickly and easily.\"--BOOK JACKET.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1588114341"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781588114341"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 292,
+        "printType": "BOOK",
+        "categories": [
+          "Language Arts & Disciplines"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eWX7RkmnNPQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eWX7RkmnNPQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.hu/books?id=eWX7RkmnNPQC&printsec=frontcover&dq=software&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.hu/books?id=eWX7RkmnNPQC&dq=software&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Corpus_Presenter.html?hl=&id=eWX7RkmnNPQC"
+      },
+      "saleInfo": {
+        "country": "HU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "HU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eWX7RkmnNPQC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;The manual contains many sample analyses and discussions so that users can acquaint themselves with the suite quickly and easily.&quot;--BOOK JACKET."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "da_MCQAAQBAJ",
+      "etag": "AEqrehgfKAk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/da_MCQAAQBAJ",
+      "volumeInfo": {
+        "title": "A+ Guide to Software",
+        "authors": [
+          "Jean Andrews"
+        ],
+        "publisher": "Cengage Learning",
+        "publishedDate": "2016-01-18",
+        "description": "This step-by-step, highly visual text provides a comprehensive introduction to managing and maintaining computer hardware and software. Written by best-selling author and educator Jean Andrews, A+ Guide to Software, Ninth Edition closely integrates the CompTIA A+ Exam objectives to prepare students for the 220-902 certification exam. The new Ninth Edition also features extensive updates to reflect current technology, techniques, and industry standards in the dynamic, fast-paced field of PC repair and information technology. Each chapter covers both core concepts and advanced topics, organizing material to facilitate practical application and encourage students to learn by doing. The new edition features more coverage of security, virtualization, new coverage of cloud computing, Linux and Mac OS, and increased emphasis on mobile devices. Supported by a wide range of supplemental resources to enhance learning with Lab Manuals, CourseNotes, online labs and the optional MindTap that includes labs, certification test prep and interactive exercises and activities, this proven text offers students an ideal way to prepare for success as a professional IT support technician. Important Notice: Media content referenced within the product description or the product text may not be available in the ebook version.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781305446441"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1305446445"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 816,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=da_MCQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=da_MCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.hu/books?id=da_MCQAAQBAJ&printsec=frontcover&dq=software&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.hu/books?id=da_MCQAAQBAJ&dq=software&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A+_Guide_to_Software.html?hl=&id=da_MCQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "HU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "HU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=da_MCQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Supported by a wide range of supplemental resources to enhance learning with Lab Manuals, CourseNotes, online labs and the optional MindTap that includes labs, certification test prep and interactive exercises and activities, this proven ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "J7sB9-oQjvwC",
+      "etag": "npSsL863uEk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/J7sB9-oQjvwC",
+      "volumeInfo": {
+        "title": "After the Software Wars",
+        "authors": [
+          "Keith Cary Curtis"
+        ],
+        "publisher": "Keith Curtis",
+        "publishedDate": "2009",
+        "description": "Computers are an advancement whose importance is comparable to the invention of the wheel or movable type. While computers and the Internet have already changed many aspects of our lives, we still live in the dark ages of computing because proprietary software is still the dominant model. One might say that the richest alchemist who ever lived is my former boss, Bill Gates. (Oracle founder Larry Ellison, and Google co-founders Sergey Brin and Larry Page are close behind.) Human knowledge increasingly exists in digital form, so building new and better models requires the software to be improved. People can only share ideas when they also share the software to display and modify them. It is the expanded use of free software that will allow a greater ability for people to work together and increase the pace of progress. This book will demonstrate that a system where anyone can edit, share, and review the body of work will lead not just to something that works, but eventually to the best that the world can achieve! With better cooperation among our scientists, robot-driven cars is just one of the many inventions that will arrive -- pervasive robotics, artificial intelligence, and much faster progress in biology, all of which rely heavily on software. - Publisher.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780578011899"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0578011891"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.0.1.0.preview.2",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=J7sB9-oQjvwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=J7sB9-oQjvwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.hu/books?id=J7sB9-oQjvwC&printsec=frontcover&dq=software&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.hu/books?id=J7sB9-oQjvwC&dq=software&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/After_the_Software_Wars.html?hl=&id=J7sB9-oQjvwC"
+      },
+      "saleInfo": {
+        "country": "HU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "HU",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=J7sB9-oQjvwC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book will demonstrate that a system where anyone can edit, share, and review the body of work will lead not just to something that works, but eventually to the best that the world can achieve!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LTi_DN_LCSIC",
+      "etag": "wSrMDjdQs7M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LTi_DN_LCSIC",
+      "volumeInfo": {
+        "title": "The Handbook of Software for Engineers and Scientists",
+        "authors": [
+          "Paul W. Ross"
+        ],
+        "publisher": "CRC Press",
+        "publishedDate": "1995-10-25",
+        "description": "The Handbook of Software for Engineers and Scientists is a single-volume, ready reference for the practicing engineer and scientist in industry, government, and academia as well as the novice computer user. It provides the most up-to-date information in a variety of areas such as common platforms and operating systems, applications programs, networking, and many other problem-solving tools necessary to effectively use computers on a daily basis. Specific platforms and environments thoroughly discussed include MS-DOS®, Microsoft® WindowsTM, the Macintosh® and its various systems, UNIXTM, DEC VAXTM, IBM® mainframes, OS/2®, WindowsTM NT, and NeXTSTEPTM. Word processing, desktop publishing, spreadsheets, databases, integrated packages, computer presentation systems, groupware, and a number of useful utilities are also covered. Several extensive sections in the book are devoted to mathematical and statistical software. Information is provided on circuits and control simulation programs, finite element tools, and solid modeling tools. Additional coverage is included on data communications and networking. Many appendices at the end of the book provide useful supplemental information, such as ASCII codes, RS-232 parallel port and pinout information, and ANSI escape sequences. This valuable resource handbook brings together a wide variety of topics and offers a wealth of information at the reader's fingertips.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0849325307"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780849325304"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1584,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LTi_DN_LCSIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LTi_DN_LCSIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.hu/books?id=LTi_DN_LCSIC&printsec=frontcover&dq=software&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.hu/books?id=LTi_DN_LCSIC&dq=software&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Handbook_of_Software_for_Engineers_a.html?hl=&id=LTi_DN_LCSIC"
+      },
+      "saleInfo": {
+        "country": "HU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "HU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LTi_DN_LCSIC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Handbook of Software for Engineers and Scientists is a single-volume, ready reference for the practicing engineer and scientist in industry, government, and academia as well as the novice computer user."
+      }
+    }
+  ]
+}

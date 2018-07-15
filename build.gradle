@@ -19,6 +19,7 @@ ext {
     rxAndroidVersion = '2.0.2'
     picassoVersion = '2.71828'
     constraintLayoutVersion = '1.1.2'
+    mockWebServerVersion = '3.8.1'
 }
 
 buildscript {
